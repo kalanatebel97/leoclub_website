@@ -1,0 +1,201 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/testsite
+Data file = C:\xampp\htdocs\testsite/wp-content/themes/ngo-charity-lite/inc/ngo-charity-lite-demo/import.xml
+Widget file = C:\xampp\htdocs\testsite/wp-content/themes/ngo-charity-lite/inc/ngo-charity-lite-demo/import.wie
+Customizer file = C:\xampp\htdocs\testsite/wp-content/themes/ngo-charity-lite/inc/ngo-charity-lite-demo/import.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				One Click Demo Import - log_file_2019-03-17__02-55-37		" (Media)
+[ERROR] Failed to import "
+				african-african-american-afro-american-asian-black-1450341-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				walking-group-people-running-female-youth-924644-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				work-man-person-people-street-photography-709978-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				sunset-skyline-morning-city-cityscape-downtown-819940-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				hand-man-person-street-floor-male-1295028-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				person-boy-drinking-from-bottle-child-drinking-water-thirsty-boy-drinking-881932-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				tree-village-community-charity-help-shelter-740850-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				hand-finger-tattoo-money-bottle-arm-1088017-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				adult-african-african-american-african-descent-afro-american-1456321-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				hand-leg-finger-blue-arm-human-body-885186-pxhere.com		" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				One Click Demo Import - log_file_2019-03-17__02-55-37		" (Media)
+[ERROR] Failed to import "
+				african-african-american-afro-american-asian-black-1450341-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				walking-group-people-running-female-youth-924644-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				work-man-person-people-street-photography-709978-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				sunset-skyline-morning-city-cityscape-downtown-819940-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				hand-man-person-street-floor-male-1295028-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				person-boy-drinking-from-bottle-child-drinking-water-thirsty-boy-drinking-881932-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				tree-village-community-charity-help-shelter-740850-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				hand-finger-tattoo-money-bottle-arm-1088017-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				adult-african-african-american-african-descent-afro-american-1456321-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				hand-leg-finger-blue-arm-human-body-885186-pxhere.com		" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				One Click Demo Import - log_file_2019-03-17__02-55-37		" (Media)
+[ERROR] Failed to import "
+				african-african-american-afro-american-asian-black-1450341-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				walking-group-people-running-female-youth-924644-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				work-man-person-people-street-photography-709978-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				sunset-skyline-morning-city-cityscape-downtown-819940-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				hand-man-person-street-floor-male-1295028-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				person-boy-drinking-from-bottle-child-drinking-water-thirsty-boy-drinking-881932-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				tree-village-community-charity-help-shelter-740850-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				hand-finger-tattoo-money-bottle-arm-1088017-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				adult-african-african-american-african-descent-afro-american-1456321-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				hand-leg-finger-blue-arm-human-body-885186-pxhere.com		" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				One Click Demo Import - log_file_2019-03-17__02-55-37		" (Media)
+[ERROR] Failed to import "
+				african-african-american-afro-american-asian-black-1450341-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				walking-group-people-running-female-youth-924644-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				work-man-person-people-street-photography-709978-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				sunset-skyline-morning-city-cityscape-downtown-819940-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				hand-man-person-street-floor-male-1295028-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				person-boy-drinking-from-bottle-child-drinking-water-thirsty-boy-drinking-881932-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				tree-village-community-charity-help-shelter-740850-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				hand-finger-tattoo-money-bottle-arm-1088017-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				adult-african-african-american-african-descent-afro-american-1456321-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				hand-leg-finger-blue-arm-human-body-885186-pxhere.com		" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				One Click Demo Import - log_file_2019-03-17__02-55-37		" (Media)
+[ERROR] Failed to import "
+				african-african-american-afro-american-asian-black-1450341-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				walking-group-people-running-female-youth-924644-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				work-man-person-people-street-photography-709978-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				sunset-skyline-morning-city-cityscape-downtown-819940-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				hand-man-person-street-floor-male-1295028-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				person-boy-drinking-from-bottle-child-drinking-water-thirsty-boy-drinking-881932-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				tree-village-community-charity-help-shelter-740850-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				hand-finger-tattoo-money-bottle-arm-1088017-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				adult-african-african-american-african-descent-afro-american-1456321-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				hand-leg-finger-blue-arm-human-body-885186-pxhere.com		" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				One Click Demo Import - log_file_2019-03-17__02-55-37		" (Media)
+[ERROR] Failed to import "
+				african-african-american-afro-american-asian-black-1450341-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				walking-group-people-running-female-youth-924644-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				work-man-person-people-street-photography-709978-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				sunset-skyline-morning-city-cityscape-downtown-819940-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				hand-man-person-street-floor-male-1295028-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				person-boy-drinking-from-bottle-child-drinking-water-thirsty-boy-drinking-881932-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				tree-village-community-charity-help-shelter-740850-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				hand-finger-tattoo-money-bottle-arm-1088017-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				adult-african-african-american-african-descent-afro-american-1456321-pxhere.com		" (Media)
+[ERROR] Failed to import "
+				hand-leg-finger-blue-arm-human-body-885186-pxhere.com		" (Media)
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer Widget1 : 
+
+Text - About Us - Imported
+
+Footer Widget2 : 
+
+Recent Posts - Recent Posts - Imported
+
+Footer Widget3 : 
+
+Text - Contact Us - Imported
+
+Footer Widget4 : 
+
+Gallery - Gallery - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

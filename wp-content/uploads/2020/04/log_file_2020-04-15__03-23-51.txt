@@ -1,0 +1,45 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/testsite
+Data file = C:\xampp\htdocs\testsite/wp-content/themes/ngo-charity-lite/inc/ngo-charity-lite-demo/import.xml
+Widget file = C:\xampp\htdocs\testsite/wp-content/themes/ngo-charity-lite/inc/ngo-charity-lite-demo/import.wie
+Customizer file = C:\xampp\htdocs\testsite/wp-content/themes/ngo-charity-lite/inc/ngo-charity-lite-demo/import.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer Widget1 : 
+
+Text - About Us - Widget already exists
+
+Footer Widget2 : 
+
+Recent Posts - Recent Posts - Widget already exists
+
+Footer Widget3 : 
+
+Text - Contact Us - Widget already exists
+
+Footer Widget4 : 
+
+Gallery - Gallery - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
